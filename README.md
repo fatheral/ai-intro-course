@@ -3,7 +3,7 @@ Course taught at:
 * [Sofia University](https://www.sofia.edu): Palo Alto facility, 2023-2025.
 
 ## News
-* (2024-03-31) Starting 2024 Spring Session
+* (2025-01-04) Initial version
 
 ## Course program
 | N  | Lecture       | Desctription                                 | 
