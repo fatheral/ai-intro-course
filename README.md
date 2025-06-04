@@ -18,3 +18,6 @@ Course taught at:
 | 09 | [Interpretability and Explainability](/lectures/lecture_ai_09.pdf)    | Interpretability of ML models. Explainability as a concept. Bias and Fairness in AI. AI Ethics and Regulations |
 | 10 | [Exam](/lectures/lecture_ai_10.pdf)    | Final Exam: information and logistics. Design topics. Concepts topics |
 
+## Mini Research Proposal
+Please take a look at the examples by:
+* [Othman Bensouda Koraichi](https://www.linkedin.com/in/othman-bensouda-koraichi-715330131/): [Explainability in LLMs](https://github.com/OthmanBensoudaKoraichi/MRP-)
