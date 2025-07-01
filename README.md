@@ -21,3 +21,4 @@ Course taught at:
 ## Mini Research Proposal
 Please take a look at the examples by:
 * [Othman Bensouda Koraichi](https://www.linkedin.com/in/othman-bensouda-koraichi-715330131/): [Explainability in LLMs](https://github.com/OthmanBensoudaKoraichi/MRP-)
+* [Chitrashree Shankaranandha](https://www.linkedin.com/in/chitrashreeshankaranandha/): [ViT Interpretability](https://github.com/ChitrashreeShankaranandha/VisionTransformer-ViT-Interpretability-ai2025-spring-sofia)
