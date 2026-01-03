@@ -20,5 +20,6 @@ Course taught at:
 
 ## Mini Research Proposal
 Please take a look at the examples by:
+* [Xiao Xiao](https://www.linkedin.com/in/xxiao053/): [Interpreting Attention in Vision Transformers](https://github.com/wenyi999/AI2025-autumn-sofia)
 * [Othman Bensouda Koraichi](https://www.linkedin.com/in/othman-bensouda-koraichi-715330131/): [Explainability in LLMs](https://github.com/OthmanBensoudaKoraichi/MRP-)
 * [Chitrashree Shankaranandha](https://www.linkedin.com/in/chitrashreeshankaranandha/): [ViT Interpretability](https://github.com/ChitrashreeShankaranandha/VisionTransformer-ViT-Interpretability-ai2025-spring-sofia)
