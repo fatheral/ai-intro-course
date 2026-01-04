@@ -1,6 +1,6 @@
 # AI Introductory Course
 Course taught at:
-* [Sofia University](https://www.sofia.edu): Palo Alto facility, 2023-2025.
+* [Sofia University](https://www.sofia.edu): Palo Alto facility, 2023-2026.
 
 ## News
 * (2025-01-04) Initial version
@@ -8,7 +8,8 @@ Course taught at:
 ## Course program
 | N  | Lecture       | Desctription                                 | 
 | -- | ------------- | -------------                                | 
-| 01 | [Introduction](/lectures/lecture_ai_01.pdf)    | Introduction. Course logistics and syllabus. Deep Learning and Neural Nets. AI vs ML vs DL. DL History |
+| 00 | [Introduction](/lectures/lecture_ai_intro.pdf)    | Introduction. Course logistics and syllabus |
+| 01 | [Neural Networks](/lectures/lecture_ai_01.pdf)    | Deep Learning and Neural Nets. AI vs ML vs DL. DL History |
 | 02 | [GenAI](/lectures/lecture_ai_02.pdf)    | Generative AI: GAN, Diffusion |
 | 03 | [Transformers](/lectures/lecture_ai_03.pdf)    | Transformers: BERT, GPT, LLM, ChatGPT and Hallucinations |
 | 04 | [CV and ASR](/lectures/lecture_ai_04.pdf)    | Deep Learning Applications: Computer Vision, its Main Tasks (Classification, Detection, Segmentation, Image Enhancement) and Architectures (CNN and Transformer), Automatic Speech Recognition and its History (HMM) |
